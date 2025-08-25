@@ -34,7 +34,7 @@ Ik ben op zoek naar een stageplek waar ik mijn vaardigheden verder kan ontwikkel
 
 ---
 
-<h1 align="left">🇬🇧 Hi there 👋</h1> 
+<h1 align="left">EN Hi there 👋</h1> 
 
 ###
 
