@@ -7,7 +7,7 @@
 ---
 
 ## NL Over mij
-Mijn naam is **Abdulrahman Saee**, ik ben 19 jaar oud en ik woon in Helmond.  
+Mijn naam is **Abdulrahman Saee**, ik ben 20 jaar oud en ik woon in Helmond.  
 Ik studeer momenteel **Software Development (Full Stack)** aan **Ter Aa**.  
 
 In mijn vrije tijd speel ik graag **zaalvoetbal (futsal)** en doe ik aan **kickboksen**.  
@@ -25,23 +25,29 @@ Ik zou mezelf omschrijven als **gemotiveerd, leergierig en een teamspeler**.
 
 ---
 
-##  Ik programmeer met:
+## Ik programmeer met:
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" />
 </div>
+
 
 ---
 
 ## EN About me
-My name is **Abdulrahman Saee**, I am 19 years old and I live in Helmond.  
+My name is **Abdulrahman Saee**, I am 20 years old and I live in Helmond.  
 I am currently studying **Software Development (Full Stack)** at **Ter Aa**.  
 
 In my free time, I enjoy playing **futsal** and practicing **kickboxing**.  
@@ -60,17 +66,23 @@ I would describe myself as **motivated, eager to learn, and a team player**.
 ---
 
 ##  I code with:
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" />
 </div>
+
 
 ---
 
