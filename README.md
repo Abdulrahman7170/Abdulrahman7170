@@ -1,4 +1,4 @@
-<h1 align="left">Hoi ik ben Abdulrahman, Student bij Ter aa.👋</h1>
+<h1 align="left">Hoi ik ben Abdulrahman, Student bij Ter aa.</h1>
 
 ###
 
@@ -13,19 +13,19 @@ Ik studeer momenteel **Software Development (Full Stack)** aan **Ter Aa**.
 In mijn vrije tijd speel ik graag **zaalvoetbal (futsal)** en doe ik aan **kickboksen**.  
 Ik zou mezelf omschrijven als **gemotiveerd, leergierig en een teamspeler**.  
 
-🔍 Ik ben op zoek naar een **stageplek** waar ik mijn vaardigheden verder kan ontwikkelen en kan bijdragen aan echte projecten.  
+ Ik ben op zoek naar een **stageplek** waar ik mijn vaardigheden verder kan ontwikkelen en kan bijdragen aan echte projecten.  
 
 ---
 
 ## Leerpad
-- 👨‍💻 Programmeert sinds **2024**  
-- 📖 Momenteel bezig met **HTML, CSS, PHP, C#, C++, Databases**  
-- 🎯 Doel: Een ervaren **Full Stack Developer** worden en veel leren tijdens mijn stage  
-- ⚡ Fun fact: Ik hou van **futsal** en **kickboksen**  
+-  Programmeert sinds **2024**  
+-  Momenteel bezig met **HTML, CSS, PHP, C#, C++,Database, Wordpress,JavaScript**  
+-  Doel: Een ervaren **Full Stack Developer** worden en veel leren tijdens mijn stage  
+-  Fun fact: Ik hou van **futsal** en **kickboksen**  
 
 ---
 
-## 💻 Ik programmeer met:
+##  Ik programmeer met:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
@@ -47,19 +47,19 @@ I am currently studying **Software Development (Full Stack)** at **Ter Aa**.
 In my free time, I enjoy playing **futsal** and practicing **kickboxing**.  
 I would describe myself as **motivated, eager to learn, and a team player**.  
 
-🔍 I am currently looking for an **internship** where I can further develop my skills and contribute to real projects.  
+ I am currently looking for an **internship** where I can further develop my skills and contribute to real projects.  
 
 ---
 
 ## Learning Journey
-- 👨‍💻 Programming since **2024**  
-- 📖 Currently learning **HTML, CSS, PHP, C#, C++, Databases**  
-- 🎯 Goal: To become a skilled **Full Stack Developer** and gain experience during my internship  
-- ⚡ Fun fact: I love playing **futsal** and **kickboxing**  
+-  Programming since **2024**  
+-  Currently learning **HTML, CSS, PHP, C#, C++, Databases, Wordpress,JavaScript**   
+-  Goal: To become a skilled **Full Stack Developer** and gain experience during my internship  
+-  Fun fact: I love playing **futsal** and **kickboxing**  
 
 ---
 
-## 💻 I code with:
+##  I code with:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
@@ -74,7 +74,7 @@ I would describe myself as **motivated, eager to learn, and a team player**.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <div align="center">
 
   <!-- Stats -->
