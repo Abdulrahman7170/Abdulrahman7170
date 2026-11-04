@@ -1,105 +1,36 @@
-<h1 align="left">Hoi ik ben Abdulrahman, Student bij Ter aa.</h1>
+# Abdulrahman Saee
 
-###
+### Full Stack Development Student | Ter AA
 
-<p align="left">Mijn naam is Abdulrahman. Ik ben een Full Stack Development student aan Ter Aa.</p>
+I'm a final-year Software Development student at Ter AA in Helmond, the Netherlands.
 
----
+I'm interested in software and web development. I enjoy building websites, applications and working on different projects.
 
-## NL Over mij
-Mijn naam is **Abdulrahman Saee**, ik ben 20 jaar oud en ik woon in Helmond.  
-Ik studeer momenteel **Software Development (Full Stack)** aan **Ter Aa**.  
+## Skills & Technologies
 
-In mijn vrije tijd speel ik graag **zaalvoetbal (futsal)** en doe ik aan **kickboksen**.  
-Ik zou mezelf omschrijven als **gemotiveerd, leergierig en een teamspeler**.  
+- HTML, CSS, JavaScript
+- PHP, Laravel, WordPress
+- C#, C++, MicroPython
+- Vue.js
+- Databases
 
- Ik ben op zoek naar een **stageplek** waar ik mijn vaardigheden verder kan ontwikkelen en kan bijdragen aan echte projecten.  
+## About Me
 
----
+- Final-year Full Stack Development student
+- Experience with web development and WordPress projects
+- Motivated and eager to learn
+- Able to work independently and in a team
 
-## Leerpad
--  Programmeert sinds **2024**  
--  Momenteel bezig met **HTML, CSS, PHP, C#, C++,Database, Wordpress,JavaScript**  
--  Doel: Een ervaren **Full Stack Developer** worden en veel leren tijdens mijn stage  
--  Fun fact: Ik hou van **futsal** en **kickboksen**  
+## Graduation Internship
 
----
+I'm looking for a full-time graduation internship starting on **February 15, 2027**.
 
-## Ik programmeer met:
+Available Monday to Friday.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" />
-</div>
+## Find Me Online
 
+- Portfolio: https://st1738846742.splsites.nl/CV_Abdulrahman/
+- GitHub: https://github.com/Abdulrahman7170
+- LinkedIn: https://www.linkedin.com/in/abdulrahman-saee-062125374/
 
----
-
-## EN About me
-My name is **Abdulrahman Saee**, I am 20 years old and I live in Helmond.  
-I am currently studying **Software Development (Full Stack)** at **Ter Aa**.  
-
-In my free time, I enjoy playing **futsal** and practicing **kickboxing**.  
-I would describe myself as **motivated, eager to learn, and a team player**.  
-
- I am currently looking for an **internship** where I can further develop my skills and contribute to real projects.  
-
----
-
-## Learning Journey
--  Programming since **2024**  
--  Currently learning **HTML, CSS, PHP, C#, C++, Databases, Wordpress,JavaScript**   
--  Goal: To become a skilled **Full Stack Developer** and gain experience during my internship  
--  Fun fact: I love playing **futsal** and **kickboxing**  
-
----
-
-##  I code with:
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" />
-</div>
-
-
----
-
-##  GitHub Stats
-<div align="center">
-
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman7170&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman7170&layout=compact&langs_count=6&theme=dracula&cache_seconds=60" height="150" alt="languages graph" />
-
-</div>
-
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abdulrahman7170.Abdulrahman7170&" />
-</div>
+Thank you for visiting my profile!
