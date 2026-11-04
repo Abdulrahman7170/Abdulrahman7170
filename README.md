@@ -1,6 +1,6 @@
 # Abdulrahman Saee
 
-### Full Stack Development Student | Ter AA
+### Software Development Student | Ter AA
 
 I'm a final-year Software Development student at Ter AA in Helmond, the Netherlands.
 
@@ -16,7 +16,7 @@ I'm interested in software and web development. I enjoy building websites, appli
 
 ## About Me
 
-- Final-year Full Stack Development student
+- Final-year Software Development student (MBO 4)
 - Experience with web development and WordPress projects
 - Motivated and eager to learn
 - Able to work independently and in a team
